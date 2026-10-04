@@ -1,8 +1,4 @@
-Absolutely. Since your `README.md` is at the **repository root** and `screenshots/` is inside `auth app/`, copy-paste this entire file into `README.md`.
 
-The screenshot paths below are written so that **GitHub will render the images directly**.
-
-````markdown
 # 🔐 Full Stack Authentication App
 
 A complete **Full Stack Authentication Application** built with **React + Vite** on the frontend and **Spring Boot** on the backend.
